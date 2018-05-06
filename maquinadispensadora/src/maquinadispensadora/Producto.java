@@ -69,4 +69,9 @@ public class Producto {
 	public void setSecomproproducto() {
 		this.cantidaddeproducto=cantidaddeproducto-1;
 	}
+
+
+	
+	
+	
 }

@@ -125,4 +125,17 @@ public class Usuario {
 	public void setCambiarcontraseña(int nuevacontraseña) {
 		this.contraseñausuario=nuevacontraseña;
 	}
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
 }

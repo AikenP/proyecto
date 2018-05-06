@@ -68,4 +68,7 @@ public class Operaciones {
 		cambiarcontraseña2=Integer.parseInt(JOptionPane.showInputDialog("HOLA, " +listadeusuarios3[contuser2].getNombre()+"\nPOR FAVOR ESCRIBA SU NUEVA CONTRASEÑA"));
 		listadeusuarios3[contuser2].setCambiarcontraseña(cambiarcontraseña2);;
 	}
+
+
+	
 }
